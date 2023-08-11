@@ -1,0 +1,112 @@
+.body {
+    height: 695px;
+    margin: 10;
+    padding: 10;
+    border: 10;
+    background: linear-gradient(to bottom, #ebdbc7 10%, #ad7e66 100%);
+  }
+
+  .main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .section {
+    width: 50%;
+    height: 100%;
+  }
+
+  iframe {
+    margin-top: 27.875%;
+  }
+
+  .topright {
+    position: absolute;
+    top: 17px;
+    right: 25px;
+  }
+
+  .topright2 {
+    
+    top: 17px;
+    right: 60px;
+  }
+  .body2 {
+    height: 900px;
+    margin: 10;
+    padding: 10;
+    border: 10;
+    background: linear-gradient(to bottom, #e2e2e2 5%, #121212 90%);
+  }
+  div.gallery {
+    border: 1px solid #ccc;
+  }
+
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+
+  div.gallery img {
+    width: 100%;
+    height: 90%;
+  }
+
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    color: #fff;
+  }
+
+  {
+    box-sizing: border-box;
+  }
+
+  .responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+  }
+
+  @media only screen and (max-width: 700px) {
+    .responsive {
+      width: 49.99999%;
+      margin: 6px 0;
+    }
+  }
+
+  @media only screen and (max-width: 500px) {
+    .responsive {
+      width: 100%;
+    }
+  }
+
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .hdos {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    font-size: 48px;
+    font-weight: 650;
+  }
+
+  .body3 {
+    background-image: url("fondo.jpg");
+    opacity: 0.9;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  .negritas {
+    font-family: 'Georgia', serif;
+    font-size: 20px;
+    font-weight: 50;
+    position: absolute;
+    top: 100px;
+    left: 600px;
+  }
