@@ -1,1 +1,5 @@
-# Project0
+# Project0 Este proyecto consta de 4 paginas donde la principal es el index, el cual en el programa se muestra como Home. El tema de este proyecto es una pagina web que sea acerca de nosotros, por lo cual cree estas paginas con base a ello. 
+# Practicamente todas las paginas tienen incluido bootstrap principalmente porque se utilizo un navbar, el cual es el elemento que nos permite desplazarnos de una pagina a otra mediante un vinculo. Ademas su utilizo CSS y lo minimo de SASS. En el index hay una pequena introduccion, con imagen incluida, nada elaborado. A partir de aca de pueden trasladar a las otras paginas. 
+# Decidi hacer 3 temas, hobbies, musica y mascotas ya que son a lo que le presto mas atencion. La pagina mas elaborada fue songs.html. Se hizo uso de bootstrap para el display de cantantes con la habilidad de ingresar a los perfiles de cada cantante mediante un click en su imagen, algo simple. En pets se creo una tabla con los datos de mis mascotas y una imagen de cada uno de ellos.
+# Y finalmente en hobbies decidi implementar como fondo una imagen con una breve lista de mis hobbies.
+# No hay sopresas, mas que todo estetica
