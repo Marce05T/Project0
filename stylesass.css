@@ -1,0 +1,14 @@
+.body3 {
+  background-image: url("foticos/fondo.jpg");
+  opacity: 2;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.body3 li {
+  font-family: "Georgia", serif;
+  font-size: 20px;
+  font-weight: 120;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=stylesass.css.map */

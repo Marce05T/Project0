@@ -1,0 +1,17 @@
+$opc: 2.0;
+
+.body3 {
+    background-image: url("foticos/fondo.jpg");
+    opacity: $opc;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    li {
+    font-family: 'Georgia', serif;
+    font-size: 20px;
+    font-weight: 120;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+}
